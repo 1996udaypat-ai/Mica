@@ -1,0 +1,10 @@
+{
+  "description": "Enables smooth scroll-triggered animations linking a single element to multiple targets, enhancing interactive web designs for developers and designers.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
